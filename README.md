@@ -4,7 +4,7 @@
     <head>
       <meta charset="UTF-8">
       <h1>My Resume</h1>
-        <img src"./assets/images/Image.web.jpeg/>
+        <img src="assets/images/Image.web.jpeg" width="200"/>
     </head>
 <hr />
     <body>
